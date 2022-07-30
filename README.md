@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **bunch of programming languages and concepts**
 
-- 🤝 I’m looking for help with **other programmers**
+- 🤝 I’m looking for help with **Web Development**
 
 - 💬 Ask me about **Java**
 
