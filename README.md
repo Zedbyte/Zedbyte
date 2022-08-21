@@ -16,7 +16,7 @@ Im **Aetrix** also known as **ZedByte**. I'm an **aspiring Full-Stack Developer 
 - 💼 Full-Stack <strong>HTML, CSS & JavaScript Developer</strong>.
 - 🔍 I’m looking for connections in <strong>Web Development and Cloud Computing</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Java, Web Development, and Programming in general</strong>
-- 👀 See my [Personal Portfolio](https://zedbyte.github.io/portfolio/) to get more info
+- 👀 See my [Personal Portfolio](aetrix.netlify.app) to get more info
 
 ### Tools I work upon : 🛠
 
