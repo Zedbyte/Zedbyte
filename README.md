@@ -31,7 +31,7 @@ I'm **Aetrix** also known as **ZedByte**. I'm an **aspiring Software Engineer** 
 </a>
 
 ### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Aetrix&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Zedbyte&bg_color=000000&color=ffffff&line=ffffff&point=00eeff&area=true&hide_border=true" />
 
 -----
 Credits: [Aetrix](https://github.com/)
