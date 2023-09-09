@@ -24,10 +24,10 @@ I'm **Aetrix** also known as **ZedByte**. I'm an **aspiring Software Engineer** 
 
 ### GitHub Highlights: :blossom:
 <a href="https://www.linkedin.com/in">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zedbyte&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+   <img align="center" src="https://streak-stats.demolab.com?user=Zedbyte&theme=dark&hide_border=true&border_radius=5" />
 </a><br><br>
 <a href="https://www.linkedin.com/in">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zedbyte" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zedbyte&theme=dark&show_icons=true" />
 </a>
 
 ### Github Activity: 🔥 
