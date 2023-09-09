@@ -27,7 +27,7 @@ I'm **Aetrix** also known as **ZedByte**. I'm an **aspiring Software Engineer** 
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zedbyte&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
 <a href="https://www.linkedin.com/in">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedbyte&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zedbyte" />
 </a>
 
 ### Github Activity: 🔥 
