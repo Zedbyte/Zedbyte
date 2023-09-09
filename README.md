@@ -36,6 +36,6 @@ I'm **Aetrix** also known as **ZedByte**. I'm an **aspiring Software Engineer** 
 -----
 Credits: [Aetrix](https://github.com/)
 
-Last Edited on: 1/1/2022
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{aetrix}/count.svg)
