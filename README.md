@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://slackmojis.com/emojis/92029-pedro/download" width="30"/>Hey, I'm Aetrix.</h1>
+<h1 align="center"><img src="https://slackmojis.com/emojis/92029-pedro/download" width="30"/> Hey, I'm Aetrix.</h1>
 
 ###
 <h6 align="center">College of Computer Studies.</h6>
