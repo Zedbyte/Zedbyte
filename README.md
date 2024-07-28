@@ -1,41 +1,109 @@
-<h1><img src="https://slackmojis.com/emojis/5197-party_blob/download" width="30"/> Hey, I'm Aetrix.</h1>
+<h2 align="center">Hey, I'm Aetrix.</h2>
 
-I'm **Aetrix** also known as **ZedByte**. I'm an **aspiring Software Engineer** with expertise in **Java, Python, C# and Web Development**. I want to become an IT Professional someday and educate new programmers using my knowledge. My main objective is to become one of the best programmers in the Philippines and contribute meaningfully to this field.<br><br>
-<!--<a href="https://www.facebook.com"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"></a><img><br><br>-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Aetrix;Software+Engineer)](https://git.io/typing-svg)
+###
 
-[![](https://img.shields.io/badge/Gmail-aetrix@gmail.com-red)](mailto:@gmail.com) [![](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/aetrix)
+<h6 align="center">College of Computer Studies.</h6>
 
-### How to reach me: 
-<a href="mailto: aetrix@gmail.com">
-<img src="https://img.shields.io/badge/-aetrix@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com"><img src="https://img.shields.io/badge/@aetrix-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"> </a>  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/aetrix-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.aetrix.netlify.app/"><img src="https://img.shields.io/badge/aetrix.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
-<a href="https://www.messenger.com/"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a> <a href="https://www.telegram.com/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="www.discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="www.microsoftteams.com"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>
+###
 
-### Current Status Quo:
+<br clear="both">
 
-- 🔍 I’m looking for connections in <strong>IT</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Java, Web Development, and Programming in general</strong>
-- 👀 See my [Personal Portfolio](https://aetrix.netlify.app/index.html) to get more info
+<div align="center">
+  <img height="300" src="https://i.gifer.com/1KHE.gif"  />
+</div>
 
-### Tools I work upon : 🛠
+###
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"> <img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zedbyte&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Zedbyte&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zedbyte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&custom_title=Recent%20Languages%20Used" height="150" alt="languages graph"  />
+</div>
 
-### GitHub Highlights: :blossom:
-<a href="https://www.linkedin.com/in">
-   <img align="center" src="https://streak-stats.demolab.com?user=Zedbyte&theme=dark&hide_border=true&border_radius=5" />
-</a><br><br>
-<a href="https://www.linkedin.com/in">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zedbyte&theme=dark&show_icons=true" />
-</a>
+###
 
-### Github Activity: 🔥 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Zedbyte&bg_color=000000&color=ffffff&line=ffffff&point=00eeff&area=true&hide_border=true" />
+<br clear="both">
 
------
-Credits: [Aetrix](https://github.com/)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="43" alt="c logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="43" alt="java logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="43" alt="php logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="43" alt="dart logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="43" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="43" alt="codeigniter logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="43" alt="sqlite logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="43" alt="firebase logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="43" alt="bootstrap logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="43" alt="tailwindcss logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/flask/000000" height="43" alt="flask logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="43" alt="django logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="43" alt="react logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="43" alt="flutter logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="43" alt="laravel logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="43" alt="dot-net logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="43" alt="git logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="43" alt="azure logo"  />
+</div>
 
+###
 
+<h3 align="left">Current Status Quo:</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{aetrix}/count.svg)
+###
+
+- 🔍 I’m looking for connections in <strong>IT</strong> and <strong>Cybersecurity</strong> Industry.
+- 💬 Feel free to discuss with me about <strong>Python, Web Development, and Programming in general.</strong>
+- 👀 See my [Personal Portfolio](https://aetrix.netlify.app/index.html) to get more info.
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zedbyte.Zedbyte&left_color=darkslategray&right_color=darkslategrey&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Zedbyte/Zedbyte/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Zedbyte&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zedbyte&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
