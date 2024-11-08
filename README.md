@@ -76,9 +76,9 @@
 
 ###
 
-#- 🔍 I’m looking for connections in <strong>IT</strong> and <strong>Cybersecurity</strong> Industry.
-#- 💬 Feel free to discuss with me about <strong>Python, Web Development, and Programming in general.</strong>
-#- 👀 See my [Personal Portfolio](https://404.netlify.app/) to get more info.
+- 🔍 I’m looking for connections in <strong>IT</strong> and <strong>Cybersecurity</strong> Industry. -->
+- 💬 Feel free to discuss with me about <strong>Python, Web Development, and Programming in general.</strong> -->
+- 👀 See my [Personal Portfolio](https://404.netlify.app/) to get more info. -->
 
 ###
 
