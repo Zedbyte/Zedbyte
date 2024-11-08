@@ -74,13 +74,10 @@
 
 #<h3 align="left">Current Status Quo:</h3>
 
-###
-
 <!-- - 🔍 I’m looking for connections in <strong>IT</strong> and <strong>Cybersecurity</strong> Industry. -->
 <!-- - 💬 Feel free to discuss with me about <strong>Python, Web Development, and Programming in general.</strong> -->
 <!-- - 👀 See my [Personal Portfolio](https://404.netlify.app/) to get more info. -->
 
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
