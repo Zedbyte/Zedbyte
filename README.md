@@ -72,7 +72,7 @@
 
 ###
 
-#<h3 align="left">Current Status Quo:</h3>
+<h3 align="left">Current Status Quo:</h3>
 
 <!-- - 🔍 I’m looking for connections in <strong>IT</strong> and <strong>Cybersecurity</strong> Industry. -->
 <!-- - 💬 Feel free to discuss with me about <strong>Python, Web Development, and Programming in general.</strong> -->
