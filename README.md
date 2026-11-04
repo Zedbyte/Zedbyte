@@ -1,9 +1,6 @@
 <h1 align="center"><img src="https://slackmojis.com/emojis/92029-pedro/download" width="30"/></h1>
 
 ###
-<h6 align="center">College of Computer Studies.</h6>
-
-###
 
 <br clear="both">
 
